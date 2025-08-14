@@ -2,6 +2,9 @@
 
 A modern React TypeScript application demonstrating best practices for data fetching, type safety, and testing. This project showcases the integration of React Query (TanStack Query) for efficient data management and Zod for runtime type validation.
 
+> [!NOTE]
+> This project aims to be educational for beginner students in the React ecosystem.
+
 ## 🚀 Tech Stack
 
 - **Frontend Framework**: React 19 with TypeScript
